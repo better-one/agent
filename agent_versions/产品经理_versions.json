@@ -1,0 +1,34 @@
+{
+  "agent": "产品经理",
+  "current_version": {
+    "agent": "产品经理",
+    "version": "v1.1.0",
+    "changes": [
+      "增加 RICE 评分模型",
+      "添加市场分析模块"
+    ],
+    "timestamp": "2026-03-02T23:27:40.385963",
+    "checksum": "274dbf89"
+  },
+  "version_history": [
+    {
+      "agent": "产品经理",
+      "version": "v1.0.0",
+      "changes": [
+        "初始版本"
+      ],
+      "timestamp": "2026-03-02T23:27:40.385483",
+      "checksum": "b786bc13"
+    },
+    {
+      "agent": "产品经理",
+      "version": "v1.1.0",
+      "changes": [
+        "增加 RICE 评分模型",
+        "添加市场分析模块"
+      ],
+      "timestamp": "2026-03-02T23:27:40.385963",
+      "checksum": "274dbf89"
+    }
+  ]
+}

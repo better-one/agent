@@ -1,0 +1,34 @@
+{
+  "agent": "架构师",
+  "current_version": {
+    "agent": "架构师",
+    "version": "v1.1.0",
+    "changes": [
+      "集成自动化审查",
+      "增加架构模式库"
+    ],
+    "timestamp": "2026-03-02T23:27:40.387008",
+    "checksum": "c778fd70"
+  },
+  "version_history": [
+    {
+      "agent": "架构师",
+      "version": "v1.0.0",
+      "changes": [
+        "初始版本"
+      ],
+      "timestamp": "2026-03-02T23:27:40.385633",
+      "checksum": "7be4191d"
+    },
+    {
+      "agent": "架构师",
+      "version": "v1.1.0",
+      "changes": [
+        "集成自动化审查",
+        "增加架构模式库"
+      ],
+      "timestamp": "2026-03-02T23:27:40.387008",
+      "checksum": "c778fd70"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "timestamp": "2026-03-02T23:27:40.390521",
+  "total_agents": 11,
+  "total_sessions": 1,
+  "agents": {
+    "产品经理": [
+      {
+        "agent": "产品经理",
+        "version": "v1.0.0",
+        "changes": [
+          "初始版本"
+        ],
+        "timestamp": "2026-03-02T23:27:40.385483",
+        "checksum": "b786bc13"
+      },
+      {
+        "agent": "产品经理",
+        "version": "v1.1.0",
+        "changes": [
+          "增加 RICE 评分模型",
+          "添加市场分析模块"
+        ],
+        "timestamp": "2026-03-02T23:27:40.385963",
+        "checksum": "274dbf89"
+      }
+    ],
+    "架构师": [
+      {
+        "agent": "架构师",
+        "version": "v1.0.0",
+        "changes": [
+          "初始版本"
+        ],
+        "timestamp": "2026-03-02T23:27:40.385633",
+        "checksum": "7be4191d"
+      },
+      {
+        "agent": "架构师",
+        "version": "v1.1.0",
+        "changes": [
+          "集成自动化审查",
+          "增加架构模式库"
+        ],
+        "timestamp": "2026-03-02T23:27:40.387008",
+        "checksum": "c778fd70"
+      }
+    ],
+    "测试工程师": [
+      {
+        "agent": "测试工程师",
+        "version": "v1.0.0",
+        "changes": [
+          "初始版本"
+        ],
+        "timestamp": "2026-03-02T23:27:40.385663",
+        "checksum": "f1adbb3c"
+      },
+      {
+        "agent": "测试工程师",
+        "version": "v1.1.0",
+        "changes": [
+          "引入模糊测试",
+          "增加边界测试用例"
+        ],
+        "timestamp": "2026-03-02T23:27:40.388115",
+        "checksum": "fc444280"
+      }
+    ],
+    "UI/UX设计师": [
+      {
+        "agent": "UI/UX设计师",
+        "version": "v1.0.0",
+        "changes": [
+          "初始版本"
+        ],
+        "timestamp": "2026-03-02T23:27:40.385690",
+        "checksum": "124c47be"
+      }
+    ],
+    "安全工程师": [
+      {
+        "agent": "安全工程师",
+        "version": "v1.0.0",
+        "changes": [
+          "初始版本"
+        ],
+        "timestamp": "2026-03-02T23:27:40.385716",
+        "checksum": "ba7d9666"
+      }
+    ],
+    "运维工程师": [
+      {
+        "agent": "运维工程师",
+        "version": "v1.0.0",
+        "changes": [
+          "初始版本"
+        ],
+        "timestamp": "2026-03-02T23:27:40.385741",
+        "checksum": "161ae668"
+      }
+    ],
+    "性能优化专家": [
+      {
+        "agent": "性能优化专家",
+        "version": "v1.0.0",
+        "changes": [
+          "初始版本"
+        ],
+        "timestamp": "2026-03-02T23:27:40.385778",
+        "checksum": "c0854204"
+      }
+    ],
+    "技术文档工程师": [
+      {
+        "agent": "技术文档工程师",
+        "version": "v1.0.0",
+        "changes": [
+          "初始版本"
+        ],
+        "timestamp": "2026-03-02T23:27:40.385805",
+        "checksum": "d9c496dd"
+      }
+    ],
+    "代码审查员": [
+      {
+        "agent": "代码审查员",
+        "version": "v1.0.0",
+        "changes": [
+          "初始版本"
+        ],
+        "timestamp": "2026-03-02T23:27:40.385830",
+        "checksum": "02ba231f"
+      }
+    ],
+    "数据分析师": [
+      {
+        "agent": "数据分析师",
+        "version": "v1.0.0",
+        "changes": [
+          "初始版本"
+        ],
+        "timestamp": "2026-03-02T23:27:40.385855",
+        "checksum": "09928cd6"
+      }
+    ],
+    "发布经理": [
+      {
+        "agent": "发布经理",
+        "version": "v1.0.0",
+        "changes": [
+          "初始版本"
+        ],
+        "timestamp": "2026-03-02T23:27:40.385880",
+        "checksum": "fa678225"
+      }
+    ]
+  },
+  "sessions": {
+    "session_20260302_232740": {
+      "session_id": "session_20260302_232740",
+      "topic": "v2.0 在线多人功能设计",
+      "participants": [
+        "产品经理",
+        "架构师",
+        "UI/UX设计师"
+      ],
+      "start_time": "2026-03-02T23:27:40.389342",
+      "end_time": "2026-03-02T23:27:40.389500",
+      "message_count": 3,
+      "decision_count": 2,
+      "outputs": [
+        "技术架构图",
+        "UI 原型",
+        "开发计划"
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "session_id": "session_20260302_232740",
+  "topic": "v2.0 在线多人功能设计",
+  "participants": [
+    "产品经理",
+    "架构师",
+    "UI/UX设计师"
+  ],
+  "start_time": "2026-03-02T23:27:40.389342",
+  "end_time": "2026-03-02T23:27:40.389500",
+  "message_count": 3,
+  "decision_count": 2,
+  "outputs": [
+    "技术架构图",
+    "UI 原型",
+    "开发计划"
+  ]
+}

@@ -1,0 +1,524 @@
+{
+  "timestamp": "2026-03-02T23:27:10.312129",
+  "total_rooms": 3,
+  "total_messages": 42,
+  "rooms": [
+    {
+      "id": "0a5f4123",
+      "name": "任务组：v2.0 新功能开发",
+      "participants": [
+        "产品经理",
+        "架构师",
+        "UI/UX设计师",
+        "测试工程师"
+      ],
+      "message_count": 5,
+      "topic": "任务负责人：产品经理",
+      "status": "active",
+      "created_at": "2026-03-02T23:27:10.307954"
+    },
+    {
+      "id": "ff1b1e33",
+      "name": "任务组：紧急 Bug 修复 #1234",
+      "participants": [
+        "测试工程师",
+        "架构师",
+        "安全工程师",
+        "发布经理"
+      ],
+      "message_count": 3,
+      "topic": "任务负责人：测试工程师",
+      "status": "active",
+      "created_at": "2026-03-02T23:27:10.309461"
+    },
+    {
+      "id": "afeea299",
+      "name": "任务组：性能优化专项",
+      "participants": [
+        "性能优化专家",
+        "架构师",
+        "运维工程师",
+        "数据分析师"
+      ],
+      "message_count": 4,
+      "topic": "任务负责人：性能优化专家",
+      "status": "active",
+      "created_at": "2026-03-02T23:27:10.310537"
+    }
+  ],
+  "messages": [
+    {
+      "id": "faa265e4",
+      "from": "系统",
+      "to": "产品经理",
+      "type": "通知",
+      "content": "邀请你加入会议室「任务组：v2.0 新功能开发」，主题：任务负责人：产品经理",
+      "timestamp": "2026-03-02T23:27:10.308141",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "9e6d0aba",
+      "from": "系统",
+      "to": "架构师",
+      "type": "通知",
+      "content": "邀请你加入会议室「任务组：v2.0 新功能开发」，主题：任务负责人：产品经理",
+      "timestamp": "2026-03-02T23:27:10.308318",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "627c9cf6",
+      "from": "系统",
+      "to": "UI/UX设计师",
+      "type": "通知",
+      "content": "邀请你加入会议室「任务组：v2.0 新功能开发」，主题：任务负责人：产品经理",
+      "timestamp": "2026-03-02T23:27:10.308422",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "caf9e758",
+      "from": "系统",
+      "to": "测试工程师",
+      "type": "通知",
+      "content": "邀请你加入会议室「任务组：v2.0 新功能开发」，主题：任务负责人：产品经理",
+      "timestamp": "2026-03-02T23:27:10.308500",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "ebd9b5f3",
+      "from": "系统",
+      "to": "产品经理",
+      "type": "任务分配",
+      "content": "你被任命为「v2.0 新功能开发」任务负责人，团队成员：架构师, UI/UX设计师, 测试工程师",
+      "timestamp": "2026-03-02T23:27:10.308598",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "95322db4",
+      "from": "系统",
+      "to": "架构师",
+      "type": "任务分配",
+      "content": "你被分配到「v2.0 新功能开发」任务组，负责人：产品经理",
+      "timestamp": "2026-03-02T23:27:10.308674",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "f7349d23",
+      "from": "系统",
+      "to": "UI/UX设计师",
+      "type": "任务分配",
+      "content": "你被分配到「v2.0 新功能开发」任务组，负责人：产品经理",
+      "timestamp": "2026-03-02T23:27:10.308745",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "27356b7c",
+      "from": "系统",
+      "to": "测试工程师",
+      "type": "任务分配",
+      "content": "你被分配到「v2.0 新功能开发」任务组，负责人：产品经理",
+      "timestamp": "2026-03-02T23:27:10.308817",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "ca9213a5",
+      "from": "产品经理",
+      "to": "all",
+      "type": "讨论",
+      "content": "【讨论】v2.0 需要哪些新功能？",
+      "timestamp": "2026-03-02T23:27:10.308910",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "60844b4d",
+      "from": "产品经理",
+      "to": "架构师",
+      "type": "请求",
+      "content": "请评估在线多人功能的可行性",
+      "timestamp": "2026-03-02T23:27:10.308982",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "a8f344d3",
+      "from": "架构师",
+      "to": "产品经理",
+      "type": "响应",
+      "content": "技术可行，预计需要 3 天开发",
+      "timestamp": "2026-03-02T23:27:10.309055",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "0df914a7",
+      "from": "产品经理",
+      "to": "UI/UX设计师",
+      "type": "请求",
+      "content": "请设计多人模式的界面",
+      "timestamp": "2026-03-02T23:27:10.309140",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "d105075d",
+      "from": "UI/UX设计师",
+      "to": "产品经理",
+      "type": "响应",
+      "content": "原型图已完成，请查看",
+      "timestamp": "2026-03-02T23:27:10.309210",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "78156e21",
+      "from": "产品经理",
+      "to": "测试工程师",
+      "type": "请求",
+      "content": "请制定测试计划",
+      "timestamp": "2026-03-02T23:27:10.309281",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "f7f1909c",
+      "from": "产品经理",
+      "to": "all",
+      "type": "决策",
+      "content": "【决策】v2.0 包含：在线多人、皮肤商城、排行榜 2.0",
+      "timestamp": "2026-03-02T23:27:10.309375",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "0e576e11",
+      "from": "系统",
+      "to": "测试工程师",
+      "type": "通知",
+      "content": "邀请你加入会议室「任务组：紧急 Bug 修复 #1234」，主题：任务负责人：测试工程师",
+      "timestamp": "2026-03-02T23:27:10.309518",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "8cc70648",
+      "from": "系统",
+      "to": "架构师",
+      "type": "通知",
+      "content": "邀请你加入会议室「任务组：紧急 Bug 修复 #1234」，主题：任务负责人：测试工程师",
+      "timestamp": "2026-03-02T23:27:10.309590",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "836989f5",
+      "from": "系统",
+      "to": "安全工程师",
+      "type": "通知",
+      "content": "邀请你加入会议室「任务组：紧急 Bug 修复 #1234」，主题：任务负责人：测试工程师",
+      "timestamp": "2026-03-02T23:27:10.309663",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "8ec10149",
+      "from": "系统",
+      "to": "发布经理",
+      "type": "通知",
+      "content": "邀请你加入会议室「任务组：紧急 Bug 修复 #1234」，主题：任务负责人：测试工程师",
+      "timestamp": "2026-03-02T23:27:10.309735",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "d1381c4b",
+      "from": "系统",
+      "to": "测试工程师",
+      "type": "任务分配",
+      "content": "你被任命为「紧急 Bug 修复 #1234」任务负责人，团队成员：架构师, 安全工程师, 发布经理",
+      "timestamp": "2026-03-02T23:27:10.309828",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "691d6d08",
+      "from": "系统",
+      "to": "架构师",
+      "type": "任务分配",
+      "content": "你被分配到「紧急 Bug 修复 #1234」任务组，负责人：测试工程师",
+      "timestamp": "2026-03-02T23:27:10.309903",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "5cd2ab55",
+      "from": "系统",
+      "to": "安全工程师",
+      "type": "任务分配",
+      "content": "你被分配到「紧急 Bug 修复 #1234」任务组，负责人：测试工程师",
+      "timestamp": "2026-03-02T23:27:10.309975",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "3ec10d4a",
+      "from": "系统",
+      "to": "发布经理",
+      "type": "任务分配",
+      "content": "你被分配到「紧急 Bug 修复 #1234」任务组，负责人：测试工程师",
+      "timestamp": "2026-03-02T23:27:10.310049",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "55d6ffb0",
+      "from": "测试工程师",
+      "to": "all",
+      "type": "讨论",
+      "content": "【讨论】发现严重安全漏洞，需要紧急修复",
+      "timestamp": "2026-03-02T23:27:10.310142",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "0b488190",
+      "from": "测试工程师",
+      "to": "安全工程师",
+      "type": "请求",
+      "content": "请分析漏洞影响范围",
+      "timestamp": "2026-03-02T23:27:10.310216",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "822086a7",
+      "from": "安全工程师",
+      "to": "架构师",
+      "type": "请求",
+      "content": "请提供修复方案",
+      "timestamp": "2026-03-02T23:27:10.310292",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "a1544868",
+      "from": "架构师",
+      "to": "发布经理",
+      "type": "通知",
+      "content": "预计 2 小时后发布热修复",
+      "timestamp": "2026-03-02T23:27:10.310363",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "a865ee0a",
+      "from": "发布经理",
+      "to": "all",
+      "type": "决策",
+      "content": "【决策】启动紧急发布流程，30 分钟内上线",
+      "timestamp": "2026-03-02T23:27:10.310451",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "c17bf932",
+      "from": "系统",
+      "to": "性能优化专家",
+      "type": "通知",
+      "content": "邀请你加入会议室「任务组：性能优化专项」，主题：任务负责人：性能优化专家",
+      "timestamp": "2026-03-02T23:27:10.310593",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "4c72050d",
+      "from": "系统",
+      "to": "架构师",
+      "type": "通知",
+      "content": "邀请你加入会议室「任务组：性能优化专项」，主题：任务负责人：性能优化专家",
+      "timestamp": "2026-03-02T23:27:10.310679",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "90c548cd",
+      "from": "系统",
+      "to": "运维工程师",
+      "type": "通知",
+      "content": "邀请你加入会议室「任务组：性能优化专项」，主题：任务负责人：性能优化专家",
+      "timestamp": "2026-03-02T23:27:10.310751",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "712392ce",
+      "from": "系统",
+      "to": "数据分析师",
+      "type": "通知",
+      "content": "邀请你加入会议室「任务组：性能优化专项」，主题：任务负责人：性能优化专家",
+      "timestamp": "2026-03-02T23:27:10.310822",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "895b1577",
+      "from": "系统",
+      "to": "性能优化专家",
+      "type": "任务分配",
+      "content": "你被任命为「性能优化专项」任务负责人，团队成员：架构师, 运维工程师, 数据分析师",
+      "timestamp": "2026-03-02T23:27:10.310913",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "0fad0cfc",
+      "from": "系统",
+      "to": "架构师",
+      "type": "任务分配",
+      "content": "你被分配到「性能优化专项」任务组，负责人：性能优化专家",
+      "timestamp": "2026-03-02T23:27:10.310999",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "5150068b",
+      "from": "系统",
+      "to": "运维工程师",
+      "type": "任务分配",
+      "content": "你被分配到「性能优化专项」任务组，负责人：性能优化专家",
+      "timestamp": "2026-03-02T23:27:10.311071",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "70ef196f",
+      "from": "系统",
+      "to": "数据分析师",
+      "type": "任务分配",
+      "content": "你被分配到「性能优化专项」任务组，负责人：性能优化专家",
+      "timestamp": "2026-03-02T23:27:10.311207",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "15455502",
+      "from": "性能优化专家",
+      "to": "all",
+      "type": "讨论",
+      "content": "【讨论】目标：帧率从 60 提升到 90 FPS",
+      "timestamp": "2026-03-02T23:27:10.311308",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "cdc7b7e8",
+      "from": "性能优化专家",
+      "to": "数据分析师",
+      "type": "请求",
+      "content": "请分析性能瓶颈数据",
+      "timestamp": "2026-03-02T23:27:10.311382",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "0cdddc2c",
+      "from": "数据分析师",
+      "to": "性能优化专家",
+      "type": "响应",
+      "content": "主要瓶颈：渲染占用 45%，逻辑占用 30%",
+      "timestamp": "2026-03-02T23:27:10.311457",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "3a00ad66",
+      "from": "性能优化专家",
+      "to": "架构师",
+      "type": "请求",
+      "content": "请优化渲染架构",
+      "timestamp": "2026-03-02T23:27:10.311531",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "6ed1d295",
+      "from": "架构师",
+      "to": "运维工程师",
+      "type": "通知",
+      "content": "部署性能监控",
+      "timestamp": "2026-03-02T23:27:10.311604",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    },
+    {
+      "id": "3f2176c0",
+      "from": "性能优化专家",
+      "to": "all",
+      "type": "决策",
+      "content": "【决策】采用批处理渲染，目标 90 FPS",
+      "timestamp": "2026-03-02T23:27:10.311693",
+      "version": "1.0",
+      "replies": [],
+      "status": "pending"
+    }
+  ],
+  "agent_activity": {
+    "系统": 24,
+    "产品经理": 5,
+    "架构师": 3,
+    "UI/UX设计师": 1,
+    "测试工程师": 2,
+    "安全工程师": 1,
+    "发布经理": 1,
+    "性能优化专家": 4,
+    "数据分析师": 1
+  }
+}
